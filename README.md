@@ -21,7 +21,7 @@
 - The cause of the universe expansion is to increase memory by increasing the amount of history data.
 
 
-This was my personal theory, "Space Memory Hypothesis".
+#This was my personal theory, "Space Memory Hypothesis".
 
 
-How do you feel my "Space Memory Hypothesis" ?
+#How do you feel my "Space Memory Hypothesis" ?
