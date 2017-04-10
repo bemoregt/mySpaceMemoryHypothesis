@@ -10,7 +10,7 @@
 
 - And the planets correspond to CPUs that produce various events and historical data.
 
-- So what are the stars? And plays the role of Main Power that supplies energy to each planet (CPUs).
+- So what are the stars? It plays the role of Main Power that supplies energy to each planet (CPUs).
 
 - So each solar system is a huge computer that performs a history simulation.
 
